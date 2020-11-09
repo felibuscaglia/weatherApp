@@ -1,0 +1,40 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  border: none;
+  border-radius: 10px;
+  background-size: 18rem auto;
+  background: rgb(206, 66, 66);
+}
+
+.card-title {
+  margin-bottom: 15px;
+  font-family: 'Nunito', sans-serif;
+  color: white;
+  position: absolute;
+  top:25%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+}
+
+
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 18px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+.row {
+  font-family: 'Nunito', sans-serif;
+  color: white;
+  margin-top: 23px;
+}
