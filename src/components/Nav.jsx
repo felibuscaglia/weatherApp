@@ -8,8 +8,7 @@ function Nav({ onSearch }) {
   return (
     <div id="navigate">
       <Link to="/">
-        <img src={Logo} id="logoHenry"></img>
-        <h3 id="title">Henry - Weather App</h3>
+        <h3 id="title">Weather App</h3>
       </Link>
       <SearchBar onSearch={onSearch} />
       <Link to="/about">
