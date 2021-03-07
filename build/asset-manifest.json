@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.6b178377.chunk.css",
-    "main.js": "./static/js/main.fb23cc37.chunk.js",
-    "main.js.map": "./static/js/main.fb23cc37.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.02b0d12d.js",
-    "runtime-main.js.map": "./static/js/runtime-main.02b0d12d.js.map",
-    "static/js/2.9385df58.chunk.js": "./static/js/2.9385df58.chunk.js",
-    "static/js/2.9385df58.chunk.js.map": "./static/js/2.9385df58.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.8deb336c1c7cbca4afe31246ef8593c0.js": "./precache-manifest.8deb336c1c7cbca4afe31246ef8593c0.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.6b178377.chunk.css.map": "./static/css/main.6b178377.chunk.css.map",
-    "static/js/2.9385df58.chunk.js.LICENSE.txt": "./static/js/2.9385df58.chunk.js.LICENSE.txt"
+    "main.css": "/weatherApp/static/css/main.6b178377.chunk.css",
+    "main.js": "/weatherApp/static/js/main.fb23cc37.chunk.js",
+    "main.js.map": "/weatherApp/static/js/main.fb23cc37.chunk.js.map",
+    "runtime-main.js": "/weatherApp/static/js/runtime-main.fe161b37.js",
+    "runtime-main.js.map": "/weatherApp/static/js/runtime-main.fe161b37.js.map",
+    "static/js/2.9385df58.chunk.js": "/weatherApp/static/js/2.9385df58.chunk.js",
+    "static/js/2.9385df58.chunk.js.map": "/weatherApp/static/js/2.9385df58.chunk.js.map",
+    "index.html": "/weatherApp/index.html",
+    "precache-manifest.3b7b52d8478fd8dc7be00990e9ada9cc.js": "/weatherApp/precache-manifest.3b7b52d8478fd8dc7be00990e9ada9cc.js",
+    "service-worker.js": "/weatherApp/service-worker.js",
+    "static/css/main.6b178377.chunk.css.map": "/weatherApp/static/css/main.6b178377.chunk.css.map",
+    "static/js/2.9385df58.chunk.js.LICENSE.txt": "/weatherApp/static/js/2.9385df58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02b0d12d.js",
+    "static/js/runtime-main.fe161b37.js",
     "static/js/2.9385df58.chunk.js",
     "static/css/main.6b178377.chunk.css",
     "static/js/main.fb23cc37.chunk.js"
